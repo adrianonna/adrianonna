@@ -9,3 +9,8 @@
 * :pushpin: Skills: Java, HTML, CSS, Python, JavaScript  and others
 * :books: I'm currently in love with Rails on Ruby :man_technologist:
 * :video_game: In my free time I usually play games, watch movies and series, ride a bike and run on the beach.
+
+<div>
+<img align="lefth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianonna&hide=html" alt="adrianonna's Languages" />
+<img align="lefth" src="https://github-readme-stats.vercel.app/api?username=adrianonna&show_icons=true&hide_border=true" alt="adrianonna's Github Stats">
+</div>
