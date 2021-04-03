@@ -7,7 +7,7 @@
 
 * :mortar_board: I am studying Internet Systems at IFPB.
 * :pushpin: Skills: Java, HTML, CSS, Python, JavaScript  and others
-* :books: I'm currently in love with Rails on Ruby :man_technologist:
+* :books: I'm currently in love with Angular :man_technologist:
 * :video_game: In my free time I usually play games, watch movies and series, ride a bike and run on the beach.
 
 <div>
